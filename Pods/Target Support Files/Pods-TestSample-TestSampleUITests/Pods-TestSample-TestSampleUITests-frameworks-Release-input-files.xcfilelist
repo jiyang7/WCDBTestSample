@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TestSample-TestSampleUITests/Pods-TestSample-TestSampleUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/WCDB.swift/WCDBSwift.framework
+${BUILT_PRODUCTS_DIR}/WCDBOptimizedSQLCipher/sqlcipher.framework
