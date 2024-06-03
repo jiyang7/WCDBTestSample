@@ -1,0 +1,2 @@
+# WCDBTestSample
+一个简单的测试工程来验证wcdb在一个do catch中用不同条件查询一个表两次出现的问题
